@@ -64,18 +64,6 @@ section { min-height:100vh; display:flex; flex-direction:column; justify-content
 <p>You make the world softer, warmer, and better ✨</p>
 <a href="#p3" class="btn">Next →</a>
 </section>
-
-<!-- Page 3 Slideshow -->
-<section id="p3">
-<h1>Memories 📸</h1>
-<div class="slideshow">
-  <img src=d:\Album\birthday\DSC_0850.JPG>
-  <img src=d:\Album\birthday\DSC_0779.JPG>
-  <img src=d:\Album\birthday\DSC_0728.JPG>
-</div>
-<a href="#p4" class="btn">Next →</a>
-</section>
-
 <!-- Page 4 Candle -->
 <section id="p4">
 <h1>Make a Wish 🎂</h1>
